@@ -11,9 +11,13 @@ The actual logic behind of it can be found [here](https://www.a1k0n.net/2011/07/
 ## Usage
 
 ```bash
-$ make
+$ make donut
 $ ./donut
 ```
+
+## Why?
+
+I was bored and wanted to learn C.
 
 ## License
 
